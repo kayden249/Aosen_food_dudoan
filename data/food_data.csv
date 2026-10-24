@@ -1,0 +1,8 @@
+﻿food_category,price_min,price_max,price_avg,sales_min,sales_max,sales_avg,data_source
+Com binh dan,30000,35000,32500,100,200,150,user_estimate
+Bun bo,35000,45000,40000,200,300,250,user_estimate
+Pho,35000,45000,40000,150,150,150,user_estimate
+Banh mi,20000,30000,25000,200,400,300,user_estimate
+Xoi,20000,30000,25000,100,100,100,user_estimate
+Do Nhat,50000,100000,75000,40,70,55,user_estimate
+Tacos,65000,100000,82500,50,50,50,user_estimate
